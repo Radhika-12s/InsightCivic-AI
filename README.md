@@ -8,6 +8,7 @@ The platform provides an interactive workspace for exploring data, analyzing ind
 
 > **Responsible Use:** InsightCivic AI is a decision-support and analytical system. Model outputs are not guarantees of real-world emergencies, and feature importance should not be interpreted as causal evidence.
 
+---
 
 ## 📌 Project Overview
 
